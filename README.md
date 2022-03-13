@@ -22,6 +22,7 @@ Cloudera, Azure, and AWS](https://github.com/khawslee/case-study-comparative-stu
 * [Analyzing Google Play Store Apps In the Android market](https://github.com/khawslee/case-study-comparative-study/blob/main/Analyzing%20Google%20Play%20Store%20Apps%20In%20the%20Android%20market.pdf)
 * [Domain Motivation and Datasets for Text Analytics in Financial Domain](https://github.com/khawslee/case-study-comparative-study/blob/main/Domain%20Motivation%20and%20Datasets%20for%20Text%20Analytics%20in%20Financial%20Domain.pdf)
 * [Speech Analysis of the Vowels for Penang Hokkien Language](https://github.com/khawslee/case-study-comparative-study/blob/main/Speech%20Analysis%20of%20the%20Vowels%20for%20Penang%20Hokkien%20Language.pdf)
+* [Sentiment Analysis Using Vader for Customer Review](https://github.com/khawslee/case-study-comparative-study/blob/main/Sentiment%20Analysis%20Using%20Vader%20for%20Customer%20Review.pdf) <a href="https://github.com/khawslee/Sentiment-Analysis-Using-Vader"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
